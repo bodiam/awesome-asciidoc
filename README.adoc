@@ -11,6 +11,7 @@ A curated list of Awesome Asciidoc
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
 * https://github.com/kenliu/grails-asciidoc[Grails]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
+* https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Groovy] - Groovy Documentation
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
 * https://github.com/neo4j-contrib/asciidoc-slides[Neo4J]
