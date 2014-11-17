@@ -5,8 +5,11 @@ A curated list of Awesome Asciidoc
 == Tools
 
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
+* http://houqp.github.io/asciidoc-deckjs/[Deck.js]
+* https://github.com/FooBarWidget/mizuho[Mizuho - documentation formatting tool]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
+http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
 
 == Guides written in AsciiDoc
