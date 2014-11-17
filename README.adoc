@@ -9,6 +9,7 @@ A curated list of Awesome Asciidoc
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
+* https://github.com/kenliu/grails-asciidoc[Grails]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
