@@ -4,13 +4,13 @@ A curated list of Awesome Asciidoc
 
 == Tools
 
-* https://github.com/rahmanusta/AsciidocFX[AsciidocFX - JavaFX based Asciidoc Editor]
+* https://github.com/rahmanusta/AsciidocFX[AsciidocFX] - JavaFX based Asciidoc Editor
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
-* http://gist.neo4j.org/[Graphgist - Neo4j Graph viewer]
-* https://github.com/FooBarWidget/mizuho[Mizuho - documentation formatting tool]
+* http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
+* https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
 * https://github.com/neo4j-contrib/asciidoc-slides[Neo4J]
 * https://github.com/zuckschwerdt/asciidoc.tmbundle[TextMate Bundle]
