@@ -11,7 +11,6 @@ A curated list of Awesome Asciidoc
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
 * https://github.com/kenliu/grails-asciidoc[Grails]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
-* https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Groovy] - Groovy Documentation
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
 * https://github.com/neo4j-contrib/asciidoc-slides[Neo4J]
@@ -22,6 +21,7 @@ A curated list of Awesome Asciidoc
 == Guides written in AsciiDoc
 
 * https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
+* https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Groovy] - Groovy Documentation
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
 
 == Other resources
