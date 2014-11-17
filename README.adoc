@@ -1,3 +1,11 @@
 = Awesome-asciidoc
 
 A curated list of Awesome Asciidoc
+
+== Tools
+
+== Guides written in AsciiDoc
+
+https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
+https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
+
