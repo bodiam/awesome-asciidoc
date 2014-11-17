@@ -2,9 +2,9 @@
 
 A curated list of Awesome Asciidoc
 
-* <<Tools,Tools>>
-* <<Guides,Guides>>
-* <<Resources,Resources>>
+* <<tools,Tools>>
+* <<guides,Guides>>
+* <<resources,Resources>>
 
 == Tools
 
