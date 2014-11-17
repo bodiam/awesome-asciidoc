@@ -5,10 +5,12 @@ A curated list of Awesome Asciidoc
 == Tools
 
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
-* https://plugins.jetbrains.com/plugin/7391[IntelliJ IDEA]
 
 == Guides written in AsciiDoc
 
 * https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
 
+== Other resources
+
+http://mrhaki.blogspot.nl/search/label/Asciidoc[MrHaki AsciiDoc]
