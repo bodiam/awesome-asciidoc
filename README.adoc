@@ -5,6 +5,7 @@ A curated list of Awesome Asciidoc
 == Tools
 
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
+* https://plugins.jetbrains.com/plugin/7391[IntelliJ IDEA]
 
 == Guides written in AsciiDoc
 
