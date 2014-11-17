@@ -2,7 +2,13 @@
 
 A curated list of Awesome Asciidoc
 
+* <<Tools,Tools>>
+* <<Guides,Guides>>
+* <<Resources,Resources>>
+
 == Tools
+
+A collection of AsciiDoc tools
 
 * https://github.com/rahmanusta/AsciidocFX[AsciidocFX] - JavaFX based Asciidoc Editor
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
@@ -19,13 +25,17 @@ A curated list of Awesome Asciidoc
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
 
-== Guides written in AsciiDoc
+== Guides
+
+A collection of guides written in AsciiDoc
 
 * https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
 * https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Groovy] - Groovy Documentation
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
 
-== Other resources
+== Resources
+
+Other resources, like cheatsheets, tutorials, etc.
 
 * http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
 * http://mrhaki.blogspot.nl/search/label/Asciidoc[MrHaki AsciiDoc]
