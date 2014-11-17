@@ -4,6 +4,8 @@ A curated list of Awesome Asciidoc
 
 == Tools
 
+* https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
+
 == Guides written in AsciiDoc
 
 * https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
