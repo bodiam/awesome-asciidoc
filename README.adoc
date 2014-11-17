@@ -6,6 +6,7 @@ A curated list of Awesome Asciidoc
 
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
+* https://github.com/asciidoctor/asciidoctor-gradle-plugin[AsciiDoc Gradle plugin]
 * https://github.com/FooBarWidget/mizuho[Mizuho - documentation formatting tool]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
