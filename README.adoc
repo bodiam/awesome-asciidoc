@@ -5,6 +5,7 @@ A curated list of Awesome Asciidoc
 * <<tools,Tools>>
 * <<guides,Guides>>
 * <<resources,Resources>>
+* <<experiences,Experiences>>
 
 == Tools
 
@@ -33,6 +34,7 @@ A collection of guides written in AsciiDoc
 * https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Griffon Guide]
 * https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Groovy] - Groovy Documentation
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
+* https://github.com/progit/progit2[Pro Git, Second Edition]
 
 == Resources
 
