@@ -11,7 +11,7 @@ A curated list of Awesome Asciidoc
 
 A collection of AsciiDoc tools
 
-** http://espadrine.github.io/AsciiDocBox/[AsciiDocBox] - A Web based AsciiDoc editor
+* http://espadrine.github.io/AsciiDocBox/[AsciiDocBox] - A Web based AsciiDoc editor
 * https://github.com/rahmanusta/AsciidocFX[AsciidocFX] - JavaFX based Asciidoc Editor
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
