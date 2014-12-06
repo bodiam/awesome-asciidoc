@@ -19,6 +19,7 @@ A collection of AsciiDoc tools
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
 * https://github.com/kenliu/grails-asciidoc[Grails]
+* https://github.com/GeertjanWielenga/AsciidoctorJ4NB[NetBeans]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
