@@ -38,6 +38,7 @@ A collection of guides written in AsciiDoc
 * http://groovyfx.org/docs/index.html[Groovy FX] - Groovy binding for JavaFX 2.0.
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
 * https://github.com/progit/progit2[Pro Git, Second Edition]
+* http://spring.io/guides[Spring Guides]
 
 
 == Resources
@@ -50,3 +51,4 @@ Other resources, like cheatsheets, tutorials, etc.
 == Experiences
 
 * https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272[Pro Git] - Living the Future of Technical Writing
+* http://spring.io/blog/2013/12/13/spring-s-getting-started-guides-migrated-to-asciidoctor[Spring.io] - Spring's Getting Started Guides migrated to Asciidoctor
