@@ -1,11 +1,10 @@
 = Awesome-asciidoc
+:toc:
+:toc-placement!:
 
 A curated list of Awesome Asciidoc
 
-* <<tools,Tools>>
-* <<guides,Guides>>
-* <<resources,Resources>>
-* <<experiences,Experiences>>
+toc::[]
 
 == Tools
 
