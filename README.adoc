@@ -14,6 +14,7 @@ A collection of AsciiDoc tools
 * http://espadrine.github.io/AsciiDocBox/[AsciiDocBox] - A Web based AsciiDoc editor
 * https://github.com/rahmanusta/AsciidocFX[AsciidocFX] - JavaFX based Asciidoc Editor
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
+* https://github.com/asciidoctor/brackets-asciidoc-preview[Brackets Editor]
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
 * http://gist.asciidoctor.org/[DocGist] - AsciiDoc to HTML proxy
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
