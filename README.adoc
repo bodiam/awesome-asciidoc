@@ -53,6 +53,7 @@ Other resources, like cheatsheets, tutorials, etc.
 
 == Experiences
 
+* https://speakerdeck.com/glaforge/behind-the-scenes-of-the-new-groovy-website-and-documentation[Groovy-lang.org] - Behind the scenes of the new Groovy website and documentation]
 * https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272[Pro Git] - Living the Future of Technical Writing
 * http://spring.io/blog/2013/12/13/spring-s-getting-started-guides-migrated-to-asciidoctor[Spring.io] - Spring's Getting Started Guides migrated to Asciidoctor
 * http://jaxenter.com/asciidoc-replacement-gets-further-fixes-2-106623.html[Jaxenter] - AsciiDoc replacement gets further fixes
