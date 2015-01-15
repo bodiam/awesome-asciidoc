@@ -36,7 +36,7 @@ A collection of AsciiDoc tools
 A collection of guides written in AsciiDoc
 
 * http://www.activiti.org/userguide/[Activity Guide] (https://github.com/Activiti/Activiti/tree/master/userguide/src/en[Source])
-* http://new.griffon-framework.org/guide/latest/index.html[Griffon] (https://github.com/griffon/griffon/tree/master/docs/griffon-guide/src/asciidoc[Source])
+* http://new.griffon-framework.org/guide/latest/index.html[Griffon] (https://github.com/griffon/griffon/tree/development/docs/griffon-guide/src/docs/asciidoc[Source])
 * http://groovy-lang.org/semantics.html[Groovy] - (https://github.com/groovy/groovy-core/tree/master/src/spec/doc[Source])
 * http://groovyfx.org/docs/index.html[Groovy FX] - Groovy binding for JavaFX 2.0.
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
