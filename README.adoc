@@ -42,7 +42,7 @@ A collection of guides written in AsciiDoc
 * https://github.com/OpenNMS/opennms/tree/develop/opennms-doc/guide-admin/src/asciidoc/text/poller[OpenNMS]
 * https://github.com/progit/progit2[Pro Git, Second Edition]
 * http://spring.io/guides[Spring Guides]
-
+* https://github.com/spring-projects/spring-restdocs[Spring REST docs]
 
 == Resources
 
