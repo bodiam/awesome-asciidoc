@@ -43,6 +43,7 @@ A collection of guides written in AsciiDoc
 * https://github.com/progit/progit2[Pro Git, Second Edition]
 * http://spring.io/guides[Spring Guides]
 * https://github.com/spring-projects/spring-restdocs[Spring REST docs]
+* http://spockframework.github.io/spock/docs/1.0/[Spockframework]
 
 == Resources
 
