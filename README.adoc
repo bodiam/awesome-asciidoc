@@ -37,6 +37,7 @@ A collection of guides written in AsciiDoc
 
 * http://www.activiti.org/userguide/[Activity Guide] - (https://github.com/Activiti/Activiti/tree/master/userguide/src/en[Source])
 * http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/[Elastic Search] - (https://github.com/elasticsearch/elasticsearch-definitive-guide[Source])
+* http://dierk.github.io/FregeGoodness/html/index.html[Frege Goodness] - (https://github.com/Dierk/FregeGoodness[Source])
 * http://golo-lang.org/documentation/2.0.0/index.html[Golo Lang] - (https://github.com/golo-lang/golo-lang/tree/master/doc[Source])
 * http://gr8crm.github.io/[Gr8CRM] - Great Customer Relationship Management Plugins for the Grails Web Framework
 * http://new.griffon-framework.org/guide/latest/index.html[Griffon] (https://github.com/griffon/griffon/tree/development/docs/griffon-guide/src/docs/asciidoc[Source])
