@@ -15,19 +15,25 @@ A collection of AsciiDoc tools
 * https://github.com/rahmanusta/AsciidocFX[AsciidocFX] - JavaFX based Asciidoc Editor
 * https://asciidoclive.com/[Asciidoc Live] - A Web based AsciiDoc editor
 * https://github.com/asciidoctor/atom-asciidoc-preview[Atom Editor]
+* https://github.com/asciidoctor/atom-language-asciidoc[Atom Language]
 * https://github.com/asciidoctor/brackets-asciidoc-preview[Brackets Editor]
+* https://github.com/asciidoctor/asciidoctor-chrome-extension[Chrome Extension]
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
 * http://gist.asciidoctor.org/[DocGist] - AsciiDoc to HTML proxy
 * https://github.com/l3nz/dockbooker[Dockbooker] - Create multi-format eBooks from the command line using Docker
+* https://github.com/asciidoctor/asciidoctor-backends[DZSlides]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
+* https://github.com/asciidoctor/asciidoctor-firefox-addon[Firefox Addon]
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
 * https://github.com/kenliu/grails-asciidoc[Grails]
+* https://github.com/asciidoctor/jekyll-asciidoc[Jekyll]
 * https://github.com/GeertjanWielenga/AsciidoctorJ4NB[NetBeans]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
 * https://plugins.jetbrains.com/plugin/7391[IntelliJ Plugin]
 * https://github.com/neo4j-contrib/asciidoc-slides[Neo4J]
 * http://wildfly-mgreau.rhcloud.com/ad-editor/[Realtime Collaborative Asciidoc Editor] - http://mgreau.com/slides/websocket-asciidoctor/DevNation2014/slides.html[Slides]
+* https://github.com/asciidoctor/asciidoctor-reveal.js[Reveal.js]
 * https://github.com/chevdor/sql2asciidoc[SQL to AsciiDoc] - NodeJS database documentation generator
 * https://github.com/zuckschwerdt/asciidoc.tmbundle[TextMate Bundle]
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
