@@ -35,6 +35,7 @@ A collection of AsciiDoc tools
 * http://wildfly-mgreau.rhcloud.com/ad-editor/[Realtime Collaborative Asciidoc Editor] - http://mgreau.com/slides/websocket-asciidoctor/DevNation2014/slides.html[Slides]
 * https://github.com/asciidoctor/asciidoctor-reveal.js[Reveal.js]
 * https://github.com/chevdor/sql2asciidoc[SQL to AsciiDoc] - NodeJS database documentation generator
+* https://github.com/asciidoctor/sublimetext-asciidoc[Sublime Text 3 Plugin]
 * https://github.com/zuckschwerdt/asciidoc.tmbundle[TextMate Bundle]
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
