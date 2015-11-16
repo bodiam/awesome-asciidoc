@@ -18,6 +18,7 @@ A collection of AsciiDoc tools
 * https://github.com/asciidoctor/atom-language-asciidoc[Atom Language]
 * https://github.com/asciidoctor/brackets-asciidoc-preview[Brackets Editor]
 * https://github.com/asciidoctor/asciidoctor-chrome-extension[Chrome Extension]
+* https://github.com/rmpestano/cukedoctor[Cukedoctor] - Cucumber meets AsciiDoc
 * http://houqp.github.io/asciidoc-deckjs/[Deck.js]
 * http://gist.asciidoctor.org/[DocGist] - AsciiDoc to HTML proxy
 * https://github.com/l3nz/dockbooker[Dockbooker] - Create multi-format eBooks from the command line using Docker
