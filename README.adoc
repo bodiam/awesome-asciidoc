@@ -39,6 +39,7 @@ A collection of AsciiDoc tools
 * https://github.com/asciidoctor/sublimetext-asciidoc[Sublime Text 3 Plugin]
 * https://github.com/mattneub/AsciiDoc-TextMate-2.tmbundle[Better TextMate Bundle]
 * https://github.com/zuckschwerdt/asciidoc.tmbundle[TextMate Bundle]
+* https://bimlas.gitlab.io/tw5-asciidoctor/[TiddlyWiki plugin]
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
 
