@@ -28,6 +28,7 @@ A collection of AsciiDoc tools
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
 * https://github.com/kenliu/grails-asciidoc[Grails]
 * https://github.com/asciidoctor/jekyll-asciidoc[Jekyll]
+* https://kbroman.org/knitr_knutshell/pages/asciidoc.html[Knitr]
 * https://github.com/GeertjanWielenga/AsciidoctorJ4NB[NetBeans]
 * http://gist.neo4j.org/[Graphgist] - Neo4j Graph viewer
 * https://github.com/FooBarWidget/mizuho[Mizuho] - documentation formatting tool
