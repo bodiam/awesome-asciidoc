@@ -72,7 +72,7 @@ Other resources, like cheatsheets, tutorials, etc.
 * http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
 * http://rwinch.github.io/asciidoctor-gradle-examples/[AsciiDoctor Gradle Examples]
 * http://mrhaki.blogspot.nl/search/label/Asciidoc[MrHaki AsciiDoc]
-* https://neo4j.com/docs/[Neo4j writing guide with AsciiDoc]
+* https://github.com/neo4j-contrib/developer-resources[Neo4j writing guide with AsciiDoc]
 
 == Experiences
 
