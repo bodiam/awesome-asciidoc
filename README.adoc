@@ -81,3 +81,5 @@ Other resources, like cheatsheets, tutorials, etc.
 * http://spring.io/blog/2013/12/13/spring-s-getting-started-guides-migrated-to-asciidoctor[Spring.io] - Spring's Getting Started Guides migrated to Asciidoctor
 * http://jaxenter.com/asciidoc-replacement-gets-further-fixes-2-106623.html[Jaxenter] - AsciiDoc replacement gets further fixes
 * https://julien.danjou.info/blog/2014/making-of-the-hacker-guide-to-python[Hacker Guide to Python] - The Making of the Hacker Guide to Python 
+* https://phauer.com/2017/rest-api-documentation-swagger-asciidoc/[RESTful API Documentation with Swagger and AsciiDoc]
+* https://medium.com/@flbenz/beautiful-api-documentation-with-negligible-overhead-2ba523205f61[Beautiful API documentation with negligible overhead]
