@@ -43,7 +43,7 @@ A collection of AsciiDoc tools
 * https://bimlas.gitlab.io/tw5-asciidoctor/[TiddlyWiki plugin]
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
-* https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode[Visual Studio Code AsciiDoc extension]
+* https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode[Visual Studio Code AsciiDoc extension]
 
 
 == Guides
