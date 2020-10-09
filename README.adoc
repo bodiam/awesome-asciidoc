@@ -44,7 +44,7 @@ A collection of AsciiDoc tools
 * http://www.compileonline.com/try_asciidoc_online.php[Try Asciidoc online]
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
 * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode[Visual Studio Code AsciiDoc extension]
-
+* https://github.com/mariotoffia/goasciidoc[goasciidoc] - A open source tool to generate AsciiDoc from https://golang.org/[go] code files / projects
 
 == Guides
 
