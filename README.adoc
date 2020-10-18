@@ -23,6 +23,7 @@ A collection of AsciiDoc tools
 * http://gist.asciidoctor.org/[DocGist] - AsciiDoc to HTML proxy
 * https://github.com/l3nz/dockbooker[Dockbooker] - Create multi-format eBooks from the command line using Docker
 * https://github.com/asciidoctor/asciidoctor-backends[DZSlides]
+* https://dl.bintray.com/de-jcup/asciidoctoreditor[Eclipse Plugin]
 * http://www.emacswiki.org/AsciiDoc[Emacs Plugin]
 * https://github.com/asciidoctor/asciidoctor-firefox-addon[Firefox Addon]
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin[Gradle plugin]
