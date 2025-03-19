@@ -76,6 +76,7 @@ Other resources, like cheatsheets, tutorials, etc.
 * http://mrhaki.blogspot.nl/search/label/Asciidoc[MrHaki AsciiDoc]
 * https://github.com/neo4j-contrib/developer-resources[Neo4j Developer Documentation] 
 * https://www.adoc-studio.app/blog/asciidoc-guide[AsciiDoc Guide]
+* https://www.adoc-studio.app/downloads/templates/asciidoc-cheat-sheet[One Pager - AsciiDoc Syntax Reference]
 
 
 == Experiences
