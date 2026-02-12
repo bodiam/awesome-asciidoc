@@ -10,6 +10,7 @@ toc::[]
 
 A collection of AsciiDoc tools
 
+* https://plugins.jetbrains.com/plugin/30142-asciidoc-pro/edit[AsciiDoc Pro] - up to date plugin to support AsciiDoc in IntelliJ and other Jetbrains products
 * https://www.adoc-studio.app[adoc Studio - AsciiDoc for Mac, iPad & iPhone]
 * https://asciidocalive.docswriter.com/[Asciidoc Alive] - An open-source web based AsciiDoc editor
 * https://github.com/llaville/asciidoc-bootstrap-backend[AsciiDoc Bootstrap] - An AsciiDoc backend that renders the AsciiDoc source as HTML5 in the style of Bootstrap
