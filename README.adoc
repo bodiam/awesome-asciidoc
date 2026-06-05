@@ -49,6 +49,7 @@ A collection of AsciiDoc tools
 * http://www.methods.co.nz/asciidoc/chunked/ape.html[Vim support]
 * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode[Visual Studio Code AsciiDoc extension]
 * https://github.com/mariotoffia/goasciidoc[goasciidoc] - A open source tool to generate AsciiDoc from https://golang.org/[go] code files / projects
+* https://github.com/dheid/adocfmt[adocfmt] - An opinionated formatter for AsciiDoc with a check mode for CI. Available as a CLI and via pre-commit, GitHub Actions and Spotless.
 
 == Guides
 
